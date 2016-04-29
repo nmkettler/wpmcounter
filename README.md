@@ -1,2 +1,2 @@
-# wpmcounter
-An application that tracks how fast you can type!
+# WPM Counter
+A simple Java desktop application that tracks how fast you can type!
